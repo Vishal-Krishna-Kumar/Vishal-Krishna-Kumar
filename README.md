@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vishal Krishna Kumar
 
 ## 💫 About Me:
-Software Engineer | Full-Stack Developer passionate about building elegant solutions to complex problems.
+Applied Scientist | Machine Learning Engineer | Software Engineer passionate about building elegant solutions to complex problems.
 🔭 Currently working on: Advanced Retrieval-Augmented Generation (RAG) with multi-document integration, inspired by AWS Customer Care documentation, building a pipeline that automatically connects with an AI customer support bot for AWS.<br>👯 Looking to collaborate on: Projects leveraging Reinforcement Learning (e.g., MCTS/AlphaZero) or applying LLM-based agents using RAG, such as for deepfake detection.<br>🌱Currently learning: AI collaboration principles and large-scale model deployment on AWS Cloud, comparing models like Claude, GPT, and DeepSeek, and building an X-model AI agent capable of handling complex queries and generating accurate, high-quality responses.<br>💬	Ask me about	Computer Vision (Multi-Organ Segmentation, XceptionNet), NLP (DistilBERT/RASA), or Reinforcement Learning<br>⚡	Fun fact	My AI SaaS Chatbot uses DistilBERT for real-time multi-turn dialogue and achieved 90%+ query accuracy.
 
 
