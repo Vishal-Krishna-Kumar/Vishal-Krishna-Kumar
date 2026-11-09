@@ -26,6 +26,7 @@ Applied AI + software engineer: RAG, LLM evaluation, AI agents, and the back end
 ## 🚀 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
+| [ragbench](https://github.com/Vishal-Krishna-Kumar/ragbench) | Retrieval benchmarking for RAG: BM25, TF-IDF and hybrid RRF implemented from scratch, IR metrics (graded nDCG, MRR, recall@k), FastAPI service, 19 tests, CI + Docker | Python, NumPy, FastAPI, Docker, GitHub Actions |
 | [GraphAugmented-Intelligence (GAI)](https://github.com/Vishal-Krishna-Kumar/GraphAugmented-Intelligence_GAI) | Knowledge-graph RAG for biomedical question answering (built on UCSF Baranzini Lab's framework); evaluated GPT-4 and Llama on BiomixQA | Python, LLMs, Neo4j/KG, RAG |
 | [RAG-Pipeline](https://github.com/Vishal-Krishna-Kumar/RAG-Pipeline) | End-to-end Retrieval-Augmented Generation pipeline: ingestion, chunking, embeddings, retrieval, generation | Python, embeddings, vector search |
 | [AeroForge-TRIAD](https://github.com/Vishal-Krishna-Kumar/AeroForge-TRIAD) | Pre-registered CFD study of run-level conformal certificates for neural-surrogate gradients (SU2 adjoint pipeline, FNO + MLP ensembles) — in progress | Python, PyTorch, SU2 |
