@@ -1,12 +1,22 @@
-# Hi, I'm Vishal Krishna Kumar 👋
+<div align="center">
 
-**M.S. Computer Science (Data Science) @ City University of Seattle — graduating June 2027 (GPA 3.9)**
-Applied AI + software engineer: RAG, LLM evaluation, AI agents, and the back ends that ship them.
-
-🎯 **Open to full-time Software Engineering / ML Engineering / Data Science roles starting July 2027** — anywhere in the US.
-📫 [vishalkrishnakkr@gmail.com](mailto:vishalkrishnakkr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vishal-krishna-kumar-65583a201/) · [Portfolio](https://vishalkrishna.dev)
-
----
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · vishal-krishna-kumar</sub></p>
+<h1>Vishal Krishna Kumar</h1>
+<h2>Applied AI &amp; Software Engineer</h2>
+<p>M.S. CS (Data Science) @ CityU Seattle '27 · RAG / LLM evaluation / AI agents · Open to 2027 SWE &amp; ML roles</p>
+<p><strong>● Open to full-time SWE / ML / Data Science roles · July 2027 · anywhere in the US</strong></p>
+<p><sub>Based in Seattle, Washington</sub></p>
+<p><a href="https://github.com/vishal-krishna-kumar">GitHub</a> &nbsp;·&nbsp; <a href="https://vishalkrishna.dev">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/vishal-krishna-kumar-65583a201/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:vishalkrishnakkr@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/240536141?u=33195e663413818f40d7c6311428979ab1168bd3&amp;v=4" width="180" alt="VishalKrishnaKumar GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
 ## 💼 Experience
 **AI Engineer Intern — Hirello.ai** (Jul–Sep 2026)
@@ -49,5 +59,12 @@ Applied AI + software engineer: RAG, LLM evaluation, AI agents, and the back end
 🏅 Gemini Enterprise Agent Ready (Google) · Claude 101 (Anthropic Academy) · Dean's Scholar, CityU
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Krishna-Kumar&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Krishna-Kumar&layout=compact&hide_border=true)
+
+---
+## 📈 GitHub activity
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vishal-krishna-kumar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240536141%3Fu%3D33195e663413818f40d7c6311428979ab1168bd3%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=vishal-krishna-kumar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F240536141%3Fu%3D33195e663413818f40d7c6311428979ab1168bd3%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="VishalKrishnaKumar GitHub proof metrics" />
+</picture>
+</p>
